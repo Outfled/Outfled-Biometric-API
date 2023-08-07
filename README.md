@@ -1,2 +1,2 @@
 # Outfled-Biometric-API
-Biometric Framework API for Windows Operating Systems
+Biometric API Library for Windows
