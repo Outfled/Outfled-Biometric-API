@@ -1,11 +1,6 @@
 #include "pch.h"
 #include "audio_manager.h"
 
-#pragma comment(lib, "Mfuuid.lib")
-#pragma comment(lib, "MF.lib")
-#pragma comment(lib, "MFplat.lib")
-#pragma comment(lib, "Mfreadwrite.lib")
-
 CAudioManager::CAudioManager()
 {
 	m_ppDeviceArray = nullptr;
