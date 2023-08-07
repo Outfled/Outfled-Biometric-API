@@ -5,7 +5,7 @@
 
 //
 // Audio Manager Class for Voice Identification
-// Currently not supported
+// Currently not implemented
 //
 
 class CAudioManager
